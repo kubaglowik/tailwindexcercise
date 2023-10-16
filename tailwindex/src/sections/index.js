@@ -1,6 +1,6 @@
 import Hero from "./Hero";
 import CustomerReviews from "./customerrevies";
-import footer from "./footer";
+import Footer from "./Footer";
 import PopularProducts from "./PopularProducts";
 import Services from "./Services";
 import SpecialOffers from "./SpecialOffers";
@@ -14,5 +14,5 @@ export{
     SpecialOffers,
     CustomerReviews,
     Subscribe,
-    footer,
-};
+    Footer,
+}
